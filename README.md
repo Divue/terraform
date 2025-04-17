@@ -9,7 +9,7 @@
 ### 🔧 How to Run a Project:
 
 ```bash
-cd 1_aws-ec2/            # Step into a specific Terraform project
+cd 1_aws-ec2/            # Step into a specific Terraform directory
 source .env
 terraform init           # 🔹 One-time setup: downloads providers, sets up backend
 terraform plan           # 🔍 Shows what Terraform will create/update/destroy
